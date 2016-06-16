@@ -11,7 +11,7 @@ use autoloading\int\IntClass;
 use autoloading\new_\NewClass;
 use autoloading\parent\ParentClass;
 
-class ChildClass extends ParentClass implements IntClass{
+class ChildClass extends ParentClass implements IntClass{ 
 
 	public function testIntFunc(){
 		return "intFunc";
