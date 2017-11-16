@@ -56,7 +56,10 @@ setcookie("converter", true);
 	<div style="text-align: center;">
 		<h1>PHP to JavaScript converter</h1>
         <h2>OOP, Inheritance, Exceptions, Namespaces and more</h2>
-		<h3><a href="https://github.com/tito10047/phptojs" target="_blank">See more on github</a></h3>
+		<h3>
+			For PHP to Java, see the <a href="http://www.runtimeconverter.com">Runtime Converter (Online PHP to Java Converter)</a><br /><br />
+			<a href="https://github.com/tito10047/phptojs" target="_blank">See more on github</a>
+		</h3>
 		<div>
 			<a class="github-button" href="https://github.com/tito10047/phptojs" data-icon="octicon-eye"
 			   data-style="mega" data-count-href="/tito10047/phptojs/watchers"
