@@ -223,3 +223,5 @@ assert_(FooChild.fooStatic(), 10, 'FooChild::fooStatic()');
 fooChild.testParent();
 ```
 [More Examples](https://github.com/tito10047/PHP-to-Javascript/tree/master/test/code/jsPrinter/jsSrc/generated/JsPrinter)
+
+# For online PHP to Java conversions, see the [Runtime Converter (Online PHP to Java Converter)](http://www.runtimeconverter.com).
